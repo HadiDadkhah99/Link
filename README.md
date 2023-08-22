@@ -1,1 +1,1 @@
-{"link":"google.com"}
+{"api_link":"google.com"}
